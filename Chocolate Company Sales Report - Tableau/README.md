@@ -14,6 +14,7 @@ sample-data .xlsx file
 - Top 10 Sales Persons by Country (Interactive on Tableau)
 - Sales by Country
 - Sales Amount, Boxes Shipped and Shipment Count
+- Recommend knowledge-sharing sessions for underperforming Salespersons. 
 
 
 Thanks for checking my project!

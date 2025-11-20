@@ -12,9 +12,10 @@ awesome-chocolates SQL database
 
 ## Key Insights 
 - Sales Amount MoM% Change during the period of 2021-2022
-- Sales Amount by Category, with Bars and Bites being the most sold categories.
-- Shipment Count by Month
+- Created DAX measures revealing a +180% MoM sales increase in January driven by holiday/winter season. 
+- Uncovered winter season (Jan-March) drives 43% of yearly sales + 46% of shipments.
 - Total Sales for $44M and $35.33 in Average Sales by Customers
+- Recommend increasing inventory by 45% during winter/holiday season.
 
 ## Interactive Dashboard
 [**Explore the Dashboard**](https://app.powerbi.com/view?r=eyJrIjoiMTUxYmU2MDItZGM3OS00YWYzLWE4MjAtN2NkNzdjOWQxZWEwIiwidCI6Ijk2ODc2Y2E3LTJmZTktNDg3YS05NjFkLWE5MmU2N2M1YmY0OCJ9)
